@@ -1,6 +1,6 @@
 # NeuroDiverse
 
-## Inspiration:
+### Inspiration:
 Before NeuroDiverse, our team was inspired by the lack of ADHD-friendly productivity software, which prompted us to develop NeuroDiverse. According to a study published by NIH, college students who had ADHD were often found to have far lower GPAs. Upon further research, we found this issue was largely attributable to the inability of students with ADHD to focus and a lack of resources to address this issue. For this reason, we wanted to create a solution that enables students with this disability to adaptively manage their time with minimal effort, thereby increasing their engagement and productivity in their work through NeuroDiverse
 
 # What it does:
